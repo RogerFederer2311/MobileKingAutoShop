@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "QhY+wzywmANhbvA/M06RNRd3xVw3n4vdmHVLh8s4Brw=",
+  "Source": "AutoShopsApp.Server",
+  "BasePath": "_content/AutoShopsApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Ashut\\source\\repos\\autoshopsapp.client\\autoshopsapp.client.esproj",
+      "Version": 2,
+      "Source": "autoshopsapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

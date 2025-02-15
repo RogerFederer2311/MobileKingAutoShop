@@ -1,0 +1,12 @@
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\bin\Debug\net8.0\AutoShopsApp.ServiceDefaults.deps.json
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\bin\Debug\net8.0\AutoShopsApp.ServiceDefaults.dll
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\bin\Debug\net8.0\AutoShopsApp.ServiceDefaults.pdb
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\AutoShopsApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\AutoShopsApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\AutoShopsApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\AutoShopsApp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\AutoShopsApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\AutoShopsApp.ServiceDefaults.dll
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\refint\AutoShopsApp.ServiceDefaults.dll
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\AutoShopsApp.ServiceDefaults.pdb
+C:\Users\Ashut\source\repos\AutoShopsApp.ServiceDefaults\obj\Debug\net8.0\ref\AutoShopsApp.ServiceDefaults.dll
