@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ashut\\source\\repos\\",
+  "WorkspaceRootPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|c:\\users\\ashut\\source\\repos\\autoshopsapp.server\\autoshopsapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|solutionrelative:autoshopsapp.server\\autoshopsapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|c:\\users\\ashut\\source\\repos\\autoshopsapp.server\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|c:\\users\\ashut\\documents\\development\\mobilekingautoshop\\autoshopsapp.server\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|solutionrelative:autoshopsapp.server\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|c:\\users\\ashut\\source\\repos\\autoshopsapp.server\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|c:\\users\\ashut\\documents\\development\\mobilekingautoshop\\autoshopsapp.server\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|solutionrelative:autoshopsapp.server\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|c:\\users\\ashut\\documents\\development\\mobilekingautoshop\\autoshopsapp.server\\autoshopsapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F715AAC-6B81-4B76-946B-050060F14468}|AutoShopsApp.Server\\AutoShopsApp.Server.csproj|solutionrelative:autoshopsapp.server\\autoshopsapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ServiceRequestsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\Controllers\\ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\Controllers\\ServiceRequestsController.cs",
               "RelativeDocumentMoniker": "AutoShopsApp.Server\\Controllers\\ServiceRequestsController.cs",
-              "ToolTip": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\Controllers\\ServiceRequestsController.cs",
               "RelativeToolTip": "AutoShopsApp.Server\\Controllers\\ServiceRequestsController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T17:57:55.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ServiceRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\Models\\ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "AutoShopsApp.Server\\Models\\ServiceRequest.cs",
-              "ToolTip": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\Models\\ServiceRequest.cs",
               "RelativeToolTip": "AutoShopsApp.Server\\Models\\ServiceRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +52,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AutoShopsApp.Server",
-              "DocumentMoniker": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
+              "DocumentIndex": 2,
+              "Title": "AutoShopsApp.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
               "RelativeDocumentMoniker": "AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
-              "ToolTip": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
+              "ToolTip": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
               "RelativeToolTip": "AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -8,5 +8,5 @@ namespace Projects;
 public class AutoShopsApp_AppHost
 {
     private AutoShopsApp_AppHost() { }
-    public static string ProjectPath => """C:\Users\Ashut\source\repos\AutoShopsApp.AppHost""";
+    public static string ProjectPath => """C:\Users\Ashut\Documents\development\MobileKingAutoShop\AutoShopsApp.AppHost""";
 }

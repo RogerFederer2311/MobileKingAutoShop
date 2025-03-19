@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9HrjPwhjasU=",
+  "dgSpecHash": "aWaAxScGKYM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj",
+  "projectFilePath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ashut\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\aspire.dashboard.sdk.win-x64.9.0.0.nupkg.sha512",
     "C:\\Users\\Ashut\\.nuget\\packages\\aspire.hosting\\9.0.0\\aspire.hosting.9.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj": {}
+    "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj": {
+    "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj",
+        "projectUniqueName": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj",
         "projectName": "AutoShopsApp.AppHost",
-        "projectPath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj",
+        "projectPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.AppHost\\AutoShopsApp.AppHost.csproj",
         "packagesPath": "C:\\Users\\Ashut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.AppHost\\obj\\",
+        "outputPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

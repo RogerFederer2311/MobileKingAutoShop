@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:50692",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\..\\autoshopsapp.client",
+"WorkingDirectory": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\..\\autoshopsapp.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

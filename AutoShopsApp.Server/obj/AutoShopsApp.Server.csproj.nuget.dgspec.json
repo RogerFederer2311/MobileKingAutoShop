@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj": {}
+    "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj": {
+    "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
         "projectName": "AutoShopsApp.Server",
-        "projectPath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
+        "projectPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\AutoShopsApp.Server.csproj",
         "packagesPath": "C:\\Users\\Ashut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.Server\\obj\\",
+        "outputPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj": {
-                "projectPath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj"
+              "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj": {
+    "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj",
         "projectName": "AutoShopsApp.ServiceDefaults",
-        "projectPath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj",
+        "projectPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.ServiceDefaults\\AutoShopsApp.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\Ashut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashut\\source\\repos\\AutoShopsApp.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\Users\\Ashut\\Documents\\development\\MobileKingAutoShop\\AutoShopsApp.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

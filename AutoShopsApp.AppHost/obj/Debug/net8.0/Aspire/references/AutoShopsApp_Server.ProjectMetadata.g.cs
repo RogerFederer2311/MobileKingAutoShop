@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class AutoShopsApp_Server : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\Ashut\source\repos\AutoShopsApp.Server\AutoShopsApp.Server.csproj""";
+    public string ProjectPath => """C:\Users\Ashut\Documents\development\MobileKingAutoShop\AutoShopsApp.Server\AutoShopsApp.Server.csproj""";
 }
