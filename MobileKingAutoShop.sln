@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mobilekingautoshop.client", "mobilekingautoshop.client\mobilekingautoshop.client.esproj", "{60FD5163-F91B-5EA7-4364-9D4C5AF05454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileKingAutoShop.Server", "MobileKingAutoShop.Server\MobileKingAutoShop.Server.csproj", "{1148B39C-D3CA-44A4-9748-B4754690973F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FD5163-F91B-5EA7-4364-9D4C5AF05454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FD5163-F91B-5EA7-4364-9D4C5AF05454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FD5163-F91B-5EA7-4364-9D4C5AF05454}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{60FD5163-F91B-5EA7-4364-9D4C5AF05454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FD5163-F91B-5EA7-4364-9D4C5AF05454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FD5163-F91B-5EA7-4364-9D4C5AF05454}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1148B39C-D3CA-44A4-9748-B4754690973F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1148B39C-D3CA-44A4-9748-B4754690973F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1148B39C-D3CA-44A4-9748-B4754690973F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1148B39C-D3CA-44A4-9748-B4754690973F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C3CF2E-0668-4867-B076-F63FA4DE9FC0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "mobilekingautoshop.client\\mobilekingautoshop.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MobileKingAutoShop.Server\\MobileKingAutoShop.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]

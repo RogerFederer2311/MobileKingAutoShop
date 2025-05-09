@@ -1,0 +1,3 @@
+C:\Users\meradil_vm_win10\Documents\Development\MobileKingAutoShop\mobilekingautoshop.client\obj\Debug\mobilekingautoshop.client.esproj.CoreCompileInputs.cache
+C:\Users\Ashut\Documents\development\MobileKingAutoShop\mobilekingautoshop.client\obj\Debug\mobilekingautoshop.client.esproj.CoreCompileInputs.cache
+C:\ProgrammingProjects\MobileKingAutoShop\mobilekingautoshop.client\obj\Debug\mobilekingautoshop.client.esproj.CoreCompileInputs.cache

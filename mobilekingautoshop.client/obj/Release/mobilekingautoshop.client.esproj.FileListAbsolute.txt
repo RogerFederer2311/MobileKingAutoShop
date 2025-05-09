@@ -1,0 +1,2 @@
+C:\ProgrammingProjects\MobileKingAutoShop\mobilekingautoshop.client\obj\Release\mobilekingautoshop.client.esproj.CoreCompileInputs.cache
+C:\Users\Ashut\Documents\development\MobileKingAutoShop\mobilekingautoshop.client\obj\Release\mobilekingautoshop.client.esproj.CoreCompileInputs.cache

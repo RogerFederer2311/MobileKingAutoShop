@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Ashut\Documents\development\MobileKingAutoShop\MobileKingAutoShop.Server\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-05-09T22:54:34.8007787Z||;True|2025-05-09T18:35:24.5269643-04:00||;True|2025-05-08T16:06:24.8439813-04:00||;True|2025-05-08T15:12:53.5959728-04:00||;True|2025-05-08T14:35:14.2179052-04:00||;True|2025-05-06T13:24:44.1372949-04:00||;True|2025-05-06T13:19:37.0027197-04:00||;True|2025-05-06T13:18:13.0564556-04:00||;False|2025-05-06T12:51:52.6973911-04:00||;True|2025-05-06T12:47:34.7722804-04:00||;True|2025-05-06T12:00:18.5390496-04:00||;True|2025-05-06T11:49:31.1242530-04:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

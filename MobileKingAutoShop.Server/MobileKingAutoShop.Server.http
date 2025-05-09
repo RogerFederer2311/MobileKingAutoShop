@@ -1,0 +1,6 @@
+@MobileKingAutoShop.Server_HostAddress = http://localhost:5083/api
+
+GET {{MobileKingAutoShop.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
